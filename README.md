@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Haetzet
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hey, I am a kind of guy, who likes water and sitting in front of monitor all day fixing the error in his code, which is ;. (yes I am too autistic to see that)
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
 Haetzet/Haetzet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
